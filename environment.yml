@@ -1,0 +1,5 @@
+name: gpt
+channels:
+  - defaults
+dependencies:
+  - python=3.10
